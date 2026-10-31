@@ -1,0 +1,98 @@
+; National anthems of the world — Volume 2 of 6 (OpenTTD Base Music)
+; Auto-generated; slot assignment is deterministic from ISO codes.
+
+[metadata]
+name              = national_anthems_vol2
+shortname         = ANT2
+version           = 1
+description       = National anthems of the world — Volume 2 of 6 (OpenTTD Base Music set).
+
+[files]
+theme    = cf.mid
+old_0    = cg.mid
+old_1    = cl.mid
+old_2    = cm.mid
+old_3    = cn.mid
+old_4    = co.mid
+old_5    = cr.mid
+old_6    = cu.mid
+old_7    = cv.mid
+old_8    = cy.mid
+old_9    = cz.mid
+new_0    = de.mid
+new_1    = dk.mid
+new_2    = dm.mid
+new_3    = do.mid
+new_4    = dz.mid
+new_5    = ec.mid
+new_6    = ee.mid
+new_7    = eg.mid
+new_8    = es.mid
+new_9    = fi.mid
+ezy_0    = fj.mid
+ezy_1    = fr.mid
+ezy_2    = ga.mid
+ezy_3    = gb.mid
+ezy_4    = gd.mid
+ezy_5    = ge.mid
+
+[md5s]
+cf.mid   = 58d75d0b6e148f84613f39cb0366475f
+cg.mid   = 136d576f4fe5e9269f6d0626e569cd25
+cl.mid   = 4e865dd3ab8e3df6154c480fc71c1f46
+cm.mid   = 08dd67e45156ea361a17ee240afffa14
+cn.mid   = aa343e5f29514fda8a549189dc95f08c
+co.mid   = 98a2be279f2ccfe65bc2c94a60d34483
+cr.mid   = 3667b434ddef4afff148c515171456e5
+cu.mid   = 92ba992392a14549b20a8869ebe3ec32
+cv.mid   = 9b99b8e3d3112ed0a870c17d4b8d3614
+cy.mid   = 8c86d22e3914d3f01ad5e41f5c6c6e42
+cz.mid   = 45e178da249ed57fa9ea2374d0f3e22a
+de.mid   = 8f2dc3c80b5fbe361983cf030c17ce6f
+dk.mid   = 1491d57316d58f5e9c7cd4b803db67b4
+dm.mid   = c115f1e5fc769449fe10f16d5b140b87
+do.mid   = 01a956d82d6e4b6c93b47476916327f4
+dz.mid   = 3895c4e0e65570cedb4e48d5e79ce652
+ec.mid   = c96663cc620d3580d894ba5c36ced5e4
+ee.mid   = 1636dad4bf5d318eafbb01277f8dfb45
+eg.mid   = 4476068edac3c215ae00a9add25bc497
+es.mid   = 6e83520240dfb95f2982401f46363f35
+fi.mid   = 1636dad4bf5d318eafbb01277f8dfb45
+fj.mid   = e2fd537782823f46ebd4912f1dcf81f9
+fr.mid   = 47eddbff078f9e9d718a0f7a3c6a48f4
+ga.mid   = 97c54aa852d375a2fde8b8e71851c2e2
+gb.mid   = 9d1ee79530308425e4953a8ec9f66296
+gd.mid   = d0fac26f84b66321d57ec4a22df05599
+ge.mid   = fe12e5bef9354c4fdc2ef18696ba07bd
+
+[names]
+theme    = Central African Republic
+old_0    = Republic of the Congo
+old_1    = Chile
+old_2    = Cameroon
+old_3    = China
+old_4    = Colombia
+old_5    = Costa Rica
+old_6    = Cuba
+old_7    = Cape Verde
+old_8    = Cyprus
+old_9    = Czechia
+new_0    = Germany
+new_1    = Denmark
+new_2    = Dominica
+new_3    = Dominican Republic
+new_4    = Algeria
+new_5    = Ecuador
+new_6    = Estonia
+new_7    = Egypt
+new_8    = Spain
+new_9    = Finland
+ezy_0    = Fiji
+ezy_1    = France
+ezy_2    = Gabon
+ezy_3    = United Kingdom
+ezy_4    = Grenada
+ezy_5    = Georgia
+
+[origin]
+default      = National anthems of the world — OpenTTD Base Music, Volume 2 of 6.
