@@ -35,6 +35,10 @@ ezy_2    = ga.mid
 ezy_3    = gb.mid
 ezy_4    = gd.mid
 ezy_5    = ge.mid
+ezy_6    = cf.mid
+ezy_7    = cg.mid
+ezy_8    = cl.mid
+ezy_9    = cm.mid
 
 [md5s]
 cf.mid   = 58d75d0b6e148f84613f39cb0366475f
@@ -93,6 +97,10 @@ ezy_2    = Gabon
 ezy_3    = United Kingdom
 ezy_4    = Grenada
 ezy_5    = Georgia
+ezy_6    = Central African Republic
+ezy_7    = Republic of the Congo
+ezy_8    = Chile
+ezy_9    = Cameroon
 
 [origin]
 default      = National anthems of the world — OpenTTD Base Music, Volume 2 of 6.
